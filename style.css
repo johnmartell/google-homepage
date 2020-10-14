@@ -1,0 +1,22 @@
+h1 {
+    font-size: 90px;
+    font-weight: 700;
+    font-family: Kumbh Sans, Verdana, Geneva, Tahoma, sans-serif;
+    white-space: nowrap;
+}
+
+.logo-blue {
+    color: #4285F4;
+}
+
+.logo-red {
+    color: #DB4437;
+}
+
+.logo-yellow {
+    color: #F4B400;
+}
+
+.logo-green {
+    color: #0F9D58;
+}
